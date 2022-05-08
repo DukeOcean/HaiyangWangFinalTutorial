@@ -2,7 +2,7 @@
 
 ## CMSC320 Final Tutorial
 
-### Database Chosen:
+### Database Chosen: Top Streamers on Twitch(https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
 
 ### Topic:
 
