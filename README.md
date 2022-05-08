@@ -2,9 +2,9 @@
 
 ## CMSC320 Final Tutorial
 
-### Database Chosen: Top Streamers on Twitch(https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
+### Database Using: [Top Streamers on Twitch](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
 
-### Topic:
+## Analysis of Top Streamers on Twitch
 
 ### Contents:
 
