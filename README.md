@@ -31,7 +31,7 @@ I strongly recommand anyone who wants to run the notebook to download the files 
 
 ### The link to the html [Final Tutorial html](https://DukeOcean.github.io/HaiyangWangFinalTutorial/CMSC320_Final_Tutorial.html).
 
-you can also access these data in this [link](https://github.com/DukeOcean/HaiyangWangFinalTutorial).
+you can also access these files in this [link](https://github.com/DukeOcean/HaiyangWangFinalTutorial).
 
 
 
