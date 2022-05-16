@@ -15,9 +15,9 @@ I strongly recommand anyone who wants to run the notebook to download the files 
 
 [weather2018_1](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2018_1.csv)
 
-[weather2018](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2019.csv)
+[weather2019](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2019.csv)
 
-[weather2019_1](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2018_1.csv)
+[weather2019_1](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2019_1.csv)
 
 [weather2020](https://DukeOcean.github.io/HaiyangWangFinalTutorial/w2020.csv)
 
