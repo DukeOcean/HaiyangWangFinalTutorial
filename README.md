@@ -4,7 +4,7 @@
 
 ## Analysis of Daily Temperature
 
-### The link to the Notebook [Final Tutorial notebook](https://dukeocean.github.io/HaiyangWangFinalTutorial/CMSC320_Final_Tutorial.ipynb)
+### The link to the Notebook [Final Tutorial notebook](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DukeOcean/HaiyangWangFinalTutorial/blob/main/CMSC320_Final%20Tutorial.ipynb)
 
 ### The link to the html [Final Tutorial html](https://dukeocean.github.io/HaiyangWangFinalTutorial/CMSC320_Final_Tutorial.html)
 
